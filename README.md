@@ -1,3 +1,3 @@
 # World-Footaball-Match
 
-![image](https://github.com/download (1).jpg)
+![image](download%20(1).jpg)
